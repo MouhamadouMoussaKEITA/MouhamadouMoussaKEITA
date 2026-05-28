@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mouhamadou Moussa KEITA
-- 👀 I’m interested in data science and web developpement
+- 👀 I’m interested in data science , web developpement and it consulting
 - 🌱 I’m currently learning at iut of bayonne and basque countries 
 - 📫 How to reach me ...
 - 😄 Pronouns: Mouha
